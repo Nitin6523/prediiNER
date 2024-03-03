@@ -45,3 +45,5 @@ Fine tuning Data Preperation... [collab Notebook](https://colab.research.google.
 
 Fine tuning GPT 3.5 Turbo... [collab Notebook](https://colab.research.google.com/github/Nitin6523/prediiNER/blob/main/prediiFineTuning.ipynb)
 
+Report.. [Report](https://github.com/Nitin6523/prediiNER/blob/main/prediiReport.pdf)
+
