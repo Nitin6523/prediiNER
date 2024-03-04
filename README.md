@@ -2,8 +2,7 @@
 ### It performs named entity recognition (NER) task on an automotive dataset.
 
 ## Notes...
-The `requirements.txt` file should list all Python libraries that your notebooks
-depend on, and they will be installed using:
+Install all dependencies by using the below command-
 
 ```
 pip install -r requirements.txt
